@@ -1,0 +1,16 @@
+PODS:
+  - GQView (0.1.0)
+
+DEPENDENCIES:
+  - GQView (from `../`)
+
+EXTERNAL SOURCES:
+  GQView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GQView: 05e314f1dc8bcd7f2512db92f54551e3fb4e8ae5
+
+PODFILE CHECKSUM: cfaf7a5de14b441ace0dc54709bb2a4eafc5f479
+
+COCOAPODS: 1.0.1
