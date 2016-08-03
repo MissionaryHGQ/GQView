@@ -1,6 +1,0 @@
-framework module GQView {
-  umbrella header "GQView-umbrella.h"
-
-  export *
-  module * { export * }
-}
